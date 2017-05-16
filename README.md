@@ -1,2 +1,2 @@
-# localicious
-A Food App which helps in location based food search.
+# Localicious!
+A Food App which helps in location based food search and ordering.
